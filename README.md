@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning FullStack JS
 - 💞️ I’m looking to collaborate on Dev
-- 📫 How to reach me at redouanefaras@gmail.com
+- 📫 You can reach me at redouanefaras@gmail.com
 
 <!---
 redouanefaras/redouanefaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
